@@ -1,8 +1,15 @@
-### Olá 👋
+### Olá, eu sou a Jéssica Troiano 👋 
+
+<a href="https://www.linkedin.com/in/j%C3%A9ssica-aline-troiano-728860153/">
+    <div align="right">
+        <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </div>
+</a>
 
 - 👩🏻‍💻 Desenvolvedora de Software na [@Iteris](https://www.iteris.com.br) 
 - 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistema na [@Uniara](https://www.uniara.com.br/home/) e  Ciência da Computação na [@Descomplica](https://descomplica.com.br/faculdade/) .
 
+##
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicatroiano&layout=compact&theme=dracula)
