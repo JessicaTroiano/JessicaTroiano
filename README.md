@@ -7,7 +7,7 @@
 </a>
 
 - 👩🏻‍💻 Desenvolvedora de Software na [@Iteris](https://www.iteris.com.br) 
-- 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistema na [@Uniara](https://www.uniara.com.br/home/) e  Ciência da Computação na [@Descomplica](https://descomplica.com.br/faculdade/) .
+- 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas na [@Uniara](https://www.uniara.com.br/home/) e  Ciência da Computação na [@Descomplica](https://descomplica.com.br/faculdade/) .
 
 ##
 </br>
