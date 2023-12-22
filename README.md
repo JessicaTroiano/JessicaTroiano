@@ -1,5 +1,5 @@
-### Olá, eu sou a Jéssica Troiano 👋 
-
+### Olá, eu sou a Jéssica Troiano  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
 <a href="https://www.linkedin.com/in/j%C3%A9ssica-aline-troiano-728860153/">
     <div align="right">
         <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
